@@ -6,19 +6,10 @@
 &nbsp;&nbsp;&nbsp;:satellite: &nbsp; Former Senior Software Engineer at Lentra, building scalable fintech solutions. \
 &nbsp;&nbsp;&nbsp;:dart: &nbsp;Focused on backend engineering, system design, and cloud infrastructure.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently exploring advanced topics in concurrency, web systems, and System Designs.\
-&nbsp;&nbsp;&nbsp;:coffee: &nbsp;Always up for a good challenge—and strong coffee.\
+&nbsp;&nbsp;&nbsp;:coffee: &nbsp;Always up for a good challenge—and strong coffee.
 
 <p align="center">
-  <!-- Email copy to clipboard button -->
-  <a href="mailto:som.keval@gmail.com" onclick="navigator.clipboard.writeText('som.keval@gmail.com'); return false;">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kevalsom/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<sub><i>Click the Gmail badge to copy the email address to your clipboard.</i></sub>
-
+  <a href="https://www.linkedin.com/in/kevalsom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
